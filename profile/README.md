@@ -4,7 +4,8 @@
 <h3 align="center">IW Consult</h3>
 
   <p align="center">
-    <a href="https://github.com/IW-Consult/guidelines"><strong>Dokumentation & Guidelines »</strong></a>
+    <a href="https://github.com/IW-Consult/useful-code-snippets"><strong>Dokumentation »</strong></a><br>
+    <a href="https://github.com/IW-Consult/guidelines"><strong>Guidelines »</strong></a>
   </p>
 </div>
 
